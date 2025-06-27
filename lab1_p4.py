@@ -1,0 +1,5 @@
+id=input("Enter your ID")
+name=input("Enter your name")
+age=(input("Enter your age"))
+city=input("Enter your city")
+phone_number=input("Enter your phone number")
